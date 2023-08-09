@@ -1,0 +1,49 @@
+.formCreateItem {
+  height: 50vh;
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+input,
+select {
+  height: 40px;
+  margin-top: 7px;
+  padding: 10px;
+}
+
+.inputText {
+  display: flex;
+  flex-direction: column;
+  width: 97%;
+  margin: 0 auto;
+}
+
+textarea {
+  margin-top: 7px;
+}
+
+.allInputs {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 40px;
+}
+.btnCreateItem {
+  width: 200px;
+  margin-left: 12px;
+  height: 40px;
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+}

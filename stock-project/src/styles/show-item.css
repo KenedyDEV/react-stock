@@ -1,0 +1,41 @@
+.firstLine{
+  height: 80px;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+  gap: 20px;
+}
+
+.secondLine{
+  height: 70px;
+  background-color: transparent;
+  display: flex;
+  gap: 50px;
+  padding-left: 50px;
+}
+
+.divsSecondLine{
+  height: 50px;
+  width: 200px;
+  background-color: rgb(17,16,18);
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.divParagraphs{
+  padding-left: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.divParagraphsCreatedUpdated{
+  display: flex;
+  gap: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 0.7em;
+  color: rgb(255, 233, 33);
+}

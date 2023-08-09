@@ -1,0 +1,57 @@
+.table{
+  height: 68vh;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-spacing: 0 10px;
+  border-radius: 5px;
+}
+
+.firstTd{
+  border-radius: 5px 0px 0px 5px;
+}
+
+.lastTd{
+  border-radius: 0px 5px 5px 0px ;
+}
+
+
+.thead{
+  background-color: rgb(16,18,17);
+  height: 50px;
+  
+}
+
+.tbody{
+  background-color: transparent;
+  max-height: 47vh;
+  color: #242424;
+  border: 1px solid ;
+
+}
+/* Estilização para o contêiner da tabela */
+.table-container {
+  width: 100%;
+  height: 71.6vh; /* Defina a altura desejada para o corpo da tabela */
+  overflow: auto; /* Adiciona scroll quando o conteúdo da tbody exceder a altura definida */
+  
+}
+
+.renderTr{
+  height: 70px;
+  padding-top: 7px;
+  text-align: center;
+  background-color: rgb(247, 203, 211);;
+  color: rgb(94, 91, 91);
+}
+
+
+
+
+
+
+
+
+
+
+

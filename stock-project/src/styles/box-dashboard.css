@@ -1,0 +1,19 @@
+.container{
+  height: 170px;
+  width: 320px;
+  background-color: rgb(17, 16, 18);
+  border-radius: 5px;
+  box-shadow: 7px 6px 25px black;
+  border: 1px solid rgb(247, 203, 211);
+}
+
+.title{
+  padding: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.number{
+  text-align: center;
+  font-size: 3em;
+  font-family: Arial, Helvetica, sans-serif;
+}

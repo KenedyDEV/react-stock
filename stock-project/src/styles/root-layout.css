@@ -1,0 +1,45 @@
+header {
+  height: 50px;
+  width: 100%;
+  background-color: transparent;
+}
+
+nav {
+  height: inherit;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+nav h1 {
+  font-size: 1.2em;
+  padding-left: 10px;
+}
+
+.linksNav {
+  width: 100px;
+  height: inherit;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.linksNav a {
+  color: white;
+  font-size: 0.9em;
+}
+
+main {
+  min-height: 87.9vh;
+}
+
+footer {
+  height: 5.1vh;
+  padding-top: 5px;
+  padding-left: 14px;
+}
+
+.active-link{
+  color: blue;
+}

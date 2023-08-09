@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "name": "Assassin's Creed Odyssey",
+      "inStock": "22",
+      "price": "R$ 39.99",
+      "category": "Jogos",
+      "description": "Embark on an epic journey through ancient Greece as a mercenary outcast, shaping your own destiny in a world where every choice matters.",
+      "createdAt": "2023-07-27",
+      "id": 6
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "inStock": "15",
+      "price": "R$ 12.50",
+      "category": "Livros",
+      "description": "Set in the Deep South during the Great Depression, this novel follows the moral growth of a young girl as she witnesses the racial injustice in her community.",
+      "createdAt": "2023-07-26",
+      "id": 7
+    },
+    {
+      "name": "The Dark Knight",
+      "inStock": "5",
+      "price": "R$ 28.90",
+      "category": "Filmes",
+      "description": "In this critically acclaimed Batman movie, the caped crusader faces off against the Joker in a battle of wits and moral choices.",
+      "createdAt": "2023-07-25",
+      "id": 8
+    },
+    {
+      "name": "Red Dead Redemption II",
+      "inStock": "10",
+      "price": "R$ 49.99",
+      "category": "Jogos",
+      "description": "Immerse yourself in the Wild West as an outlaw, navigating the dangers of the frontier and making tough decisions in a vast open world.",
+      "createdAt": "2023-07-24",
+      "id": 9
+    },
+    {
+      "name": "Pride and Prejudice",
+      "inStock": "20",
+      "price": "R$ 14.25",
+      "category": "Livros",
+      "description": "Experience the romantic tale of Elizabeth Bennet and Mr. Darcy in Jane Austen's classic novel of love, manners, and societal expectations.",
+      "createdAt": "2023-07-23",
+      "id": 10
+    },
+    {
+      "name": "Inception",
+      "inStock": "3",
+      "price": "R$ 17.50",
+      "category": "Filmes",
+      "description": "Enter the mind-bending world of dream heists, where a skilled thief enters people's dreams to steal their secrets.",
+      "createdAt": "2023-07-22",
+      "id": 11
+    },
+    {
+      "name": "Final Fantasy XV",
+      "inStock": "17",
+      "price": "R$ 36.00",
+      "category": "Jogos",
+      "description": "Embark on a fantasy adventure with Noctis and his friends as they journey to reclaim the throne and save the world from darkness.",
+      "createdAt": "2023-07-21",
+      "id": 12
+    }
+  ]
+}
